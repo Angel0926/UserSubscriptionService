@@ -37,3 +37,6 @@ docker-compose up --build
 
 http://localhost:8083/swagger-ui/index.html
 
+
+## Postman link:
+[src/test/User and Subscription2.postman_collection.json](src/test/User and Subscription2.postman_collection.json)
